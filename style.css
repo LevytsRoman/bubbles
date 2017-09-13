@@ -1,0 +1,22 @@
+.bubble {
+	border-radius: 50%;
+	background-color: red;
+	position: absolute;
+	box-shadow: 10px 10px 5px #888888;
+	/*background-image: url(https://t0.rbxcdn.com/8a51a240a385a2328fec5d37d6c8386a);
+	background-size: cover;*/
+}
+
+.controls {
+	z-index: 1000;
+	background-color: pink;
+}
+
+.bubble-box {
+	overflow: hidden;
+	width: 100%;
+}
+
+body {
+	overflow: hidden;
+};
